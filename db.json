@@ -1,0 +1,24 @@
+{
+    "games":
+    [
+        {
+            "id": 1,
+            "currentPlayer": "p1",
+            "players":
+            [
+                {
+                    "id": 1,
+                    "playerName": "p1",
+                    "score": 123,
+                    "board": "01011111011002001"
+                },
+                {
+                    "id": 1,
+                    "playerName": "p2",
+                    "score": 321,
+                    "board": "01011211011001001"
+                }
+            ]
+        }
+    ]
+}
